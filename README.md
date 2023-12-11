@@ -1,8 +1,8 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: Krishna Choudhary
 
-Northeastern ID: Enter your Northeastern ID
+Northeastern ID: 002655027
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
